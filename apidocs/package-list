@@ -1,0 +1,9 @@
+com.hotels.styx.api
+com.hotels.styx.api.configuration
+com.hotels.styx.api.configuration.converters
+com.hotels.styx.api.extension
+com.hotels.styx.api.extension.loadbalancing.spi
+com.hotels.styx.api.extension.retrypolicy.spi
+com.hotels.styx.api.extension.service
+com.hotels.styx.api.extension.service.spi
+com.hotels.styx.api.plugins.spi
